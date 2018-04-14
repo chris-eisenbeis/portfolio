@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">  
+  <head>   
+   <meta charset="UTF-8">
+    <style> body {background-color: orange:} </style>
+    <title>life portfolio</title>
+  </head>  
+<body>
+  <header>
+    <h1>ME</h1>
+      <nav>  
+        <a href="index.html" target="_self">home</a>
+        <a href="#">About</a>
+      </nav>
+  </header>
+   <article>
+      <center><h1><b>my life</b></h1></center>
+  
+      <p>life started in washington.</p>
+      <p>moved to idaho at age 5.</p>
+      <p>In 2005 at the age of 24, i moved back to washington. </p>
+      <p>2011, i meet my wife when life had me down.</p>
+      <p>fast forward 7 years. here i am now.</p>
+      <p>trying to learn something new.</p>
+   </article>
+
+
+  
+    <footer>&copy;chris eisenbeis | ironbite inc. | 2018</footer>
+   </body>
+</html>
